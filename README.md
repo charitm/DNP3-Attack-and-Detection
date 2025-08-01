@@ -167,11 +167,6 @@ Attack vectors map to MITRE ATT&CK ICS framework:
 - **VM environments recommended** - Easy to reset and contain
 - **Network segmentation** - Prevent accidental exposure to corporate networks
 
-### Responsible Disclosure
-- Report vulnerabilities found in real systems through proper channels
-- Follow coordinated vulnerability disclosure processes
-- Respect intellectual property and licensing terms
-
 ## Contributing
 
 We welcome contributions that enhance the educational value of this lab:
@@ -199,7 +194,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## Authors
 
-Created by the HardHatSecurity.com team for industrial cybersecurity education and research.
+Created by the HardHatSecurity.com for industrial cybersecurity education and research.
 
 ## Acknowledgments
 
