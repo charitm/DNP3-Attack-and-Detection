@@ -1,4 +1,4 @@
-# DNP3 Security Testing Lab
+# DNP3 Attack and Detection Lab
 
 **Practical DNP3 attack simulation and detection for security research and training purposes.**
 
